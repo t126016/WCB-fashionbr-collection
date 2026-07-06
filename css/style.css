@@ -190,7 +190,8 @@ CONCEPT
   background-image: linear-gradient(to right,
       transparent 0%,
       transparent 20%,
-      var(--light-grey) 20% var(--light-grey) 100%);
+      var(--light-grey) 20%,
+      var(--light-grey) 100%);
 }
 
 .concept p {
